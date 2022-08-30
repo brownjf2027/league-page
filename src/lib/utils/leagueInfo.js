@@ -6,8 +6,7 @@ export const dynasty = false; // true for dynasty leagues, false for redraft and
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
-// export const homepageText = `<p>Welcome to our first year on Sleeper!</p>
-`;
+export const homepageText = ``;
 
 /*   STEP 3   */
 /*
